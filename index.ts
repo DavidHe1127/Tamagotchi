@@ -69,7 +69,7 @@ rl.on('line', (line) => {
 
   setTimeout(() => {
     rl.prompt();
-  }, 2000);
+  }, 1000);
 }).on('close', () => {
   utils.msg('Bye!');
   process.exit(0);
