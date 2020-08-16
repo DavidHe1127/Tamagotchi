@@ -21,7 +21,14 @@ There are basically 2 ways to run the program. You can either run it in your ter
 
 Note, press `ctrl+c` to exit when you finish play.
 
-## Rules and Assumptions
+## Assumptions
+
+Assumptions below are made:
+
+- `NodeJS`, `npm` and `yarn` are already installed in your environment.
+- `Docker Engine` is installed and it's up and running (Required when running tamagotchi inside Docker container).
+
+## Rules
 
 Following rules have been defined to determine tamagotchi's lifecycle and activities.
 
