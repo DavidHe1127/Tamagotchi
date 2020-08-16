@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test utils Build prompt with given data 1`] = `
+"What can I do for you?
+
+1. Feed me with snags
+2. Put me to sleep
+3. How are you?
+"
+`;
