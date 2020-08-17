@@ -4,7 +4,11 @@
 
 This is a cli-based Tamagotchi written in NodeJS. In the game, you can put it to sleep and feed it when it feels hungry. Besides, it knows when to poop and goes to sleep if it feels tired. Enjoy it!
 
-## How to play it?
+## How to play?
+
+Simply press command index as shown on the screen after game starts. i.e Press `1` to feed your tamagotchi.
+
+## How to run it?
 
 There are basically 2 ways to run the program. You can either run it in your terminal through `yarn play` or run it inside a Docker container.
 
